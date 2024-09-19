@@ -11,5 +11,8 @@
         Console.WriteLine(num1+num2*num3);
         Console.WriteLine(num3/num1+num2);
         Console.WriteLine(num2-num3+num1);
+
+        Console.WriteLine("här har en häst sprungit");
+        Console.WriteLine("------------------------");
     }
 }
